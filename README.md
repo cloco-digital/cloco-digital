@@ -86,9 +86,7 @@ I help with all kinds of tech stuff. Here's what I'm decent at:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloco@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cloco_digital)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cloco-digital)
+[![Email](https://img.shields.io/badge/Email-clocodigital@tutamail.com-00d9ff?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:clocodigital@tutamail.com)
 
 </div>
 
